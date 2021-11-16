@@ -5,8 +5,11 @@ This repo is a compilation of all the info I gathered on the Prusa i3v 3D printe
 # Hardware Details
 
 Arduino Mega 2560
+
 RAMPS 1.4 Controller
+
 Direct Drive Filament Feed
+
 Heated Print Bed
 
 Filament Diameter: 1.75mm (Speculated)
