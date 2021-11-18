@@ -8,11 +8,13 @@ Arduino Mega 2560
 
 RAMPS 1.4 Controller
 
-Direct Drive Filament Feed
-
 Heated Print Bed
 
-Filament Diameter: 1.75mm (Speculated)
+Build Volume: 241mm × 254mm × 254mm
+
+Hotend Type: J-Head 0.35mm Nozzle
+
+Filament Diameter: 1.75mm
 
 # Restoration Process
 
@@ -21,7 +23,7 @@ Completed | Goal
 No | Replace Acrylic Build Plate with Glass Build Plate
 No | Replace Z Limit Switch with BLTouch sensor for auto leveling Z axis
 No | Add Cooling Fans to Print Head for Filament and Extruder
-No | Calibrate Steps per MM for Extruder (Filament Diameter Issue)
+No | Calibrate Steps per MM for Extruder (Filament Diameter Issue??)
 Yes | Braid Cables for Cleaner Look
 Yes | Design and Fabricate Mainboard Housing (Model Rendered Below)
 Yes | Design and Fabricate Power Supply Housing (Model Rendered Below)
